@@ -41,8 +41,8 @@ export const EVENTS = {
   },
   pickleball: {
     label: 'Pickleball',
-    signupAmount: null,
-    sponsorAmount: null,
+    signupAmount: 50,
+    sponsorAmount: 00,
     currency: 'USD',
   },
   'track-field': {
