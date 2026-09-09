@@ -42,7 +42,7 @@ export const EVENTS = {
   pickleball: {
     label: 'Pickleball',
     signupAmount: 50,
-    sponsorAmount: null,
+    sponsorAmount: 100,
     currency: 'USD',
   },
   'track-field': {
